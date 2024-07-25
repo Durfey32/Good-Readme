@@ -78,7 +78,7 @@ function writeToFile(fileName, data) {
     const readmeContent = `
 # ${title}
 
-${license ? `![Static Badge](https://img.shields.io/badge/${license}-blue) \n` : ''} 
+${license ? `Licenses: ![Static Badge](https://img.shields.io/badge/${license}-blue) \n` : ''} 
 
 ## Description
 ${description}
@@ -126,8 +126,9 @@ ${tests}
 ` : ''}
 
 ## Questions?
-Github: ${Github} \n
-Email: ${email}
+Github: [${Github}](https://github.com/${Github}) \n
+Email: [${email}](mailto:${email}) \n
+Please feel free to email me with any questions.
 `;
 
     fs.writeFile(fileName, readmeContent, (err) => {
@@ -141,7 +142,7 @@ Email: ${email}
 // TODO: Create a function to initialize app
 function init() {  inquirer.prompt(questions)
     .then((data) => {
-      const filename = `README2.md`;
+      const filename = `README.md`;
       writeToFile(filename, data);
     });}
 
