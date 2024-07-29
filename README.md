@@ -5,7 +5,7 @@ Licenses: ![Static Badge](https://img.shields.io/badge/None-blue)
  
 
 ## Description
-generate a readme
+This webpage is dedicated to creating a professional readme quick and easy. The main goal was to use node and javascript to generate a usable Readme; with all the sections that you need to include. After filling out the inquirer prompt in the terminal  a  READM.md  will be generated with everything that you filled out in the terminal. This is to make writing a working Readme very easy and painless. 
 
 ## Table of Contents
 * [Installation](#installation)
@@ -19,11 +19,11 @@ generate a readme
 
 
 ## Installation
-fill out the questions using node.js
+Have your terminal open and node installed. navigate to the required page that is linked to the index.js and run the node index.js, and answer the following  questions. 
 
 
 ## Usage
-fill out the questions
+Answer the questions as best you can, and fill out each sections. However almost any section if you leave it blank will leave that section out the readme.
 
 
 
@@ -34,23 +34,22 @@ fill out the questions
 ## License
 ![Static Badge](https://img.shields.io/badge/None-blue) 
 
-Communicate with the client
+The License is important to communicate with the consumer what they are allowed to do with the page you have created. 
 
 
 ## Features
-omit blank questions
+Creates a Readme and leaves out almost any section that is not filled in. 
 
 
 ## Contributing
-follow convention
+Follow the Contributor
 
 
 ## Tests
-this video
-
+[video link here](https://app.screencastify.com/v3/watch/EIMDbDKZkzO9uO58QiBI)
 
 ## Questions?
-Github: [durfey32](https://github.com/durfey32) 
+Github: [Durfey32](https://github.com/Durfey32) 
 
 Email: [durfey_32@yahoo.com](mailto:durfey_32@yahoo.com) 
 
