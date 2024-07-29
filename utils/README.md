@@ -12,9 +12,8 @@ This webpage is dedicated to creating a professional readme quick and easy. The 
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
-* [Badges](#badges)
 * [Features](#features)
-* [Contributing](#contribute)
+* [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions?](#questions)
 
@@ -43,7 +42,7 @@ Creates a Readme and leaves out almost any section that is not filled in.
 
 
 ## Contributing
-Whoever would like to use my page to generate a Readme.md should feel free to use this page to create one. 
+Follow the Contributor
 
 
 ## Tests

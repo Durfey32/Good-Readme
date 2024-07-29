@@ -88,9 +88,8 @@ ${install ?'* [Installation](#installation)' : ''}
 ${use ?'* [Usage](#usage)' : ''}
 ${credit ? '* [Credits](#credits)' : ''}
 ${license ? '* [License](#license)' : '' }
-${badges ? '* [Badges](#badges)' : ''}
 ${features ? '* [Features](#features)' : ''}
-${contribute ? '* [Contributing](#contribute)' : ''}
+${contribute ? '* [Contributing](#contributing)' : ''}
 ${tests ? '* [Tests](#tests)' : ''}
 * [Questions?](#questions)
 
