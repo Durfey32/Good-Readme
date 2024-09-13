@@ -1,52 +1,41 @@
 
-# Good Readme
+# SQL_Employee_Tracker
 
-Licenses: ![Static Badge](https://img.shields.io/badge/None-blue) 
  
 
 ## Description
-This webpage is dedicated to creating a professional readme quick and easy. The main goal was to use node and javascript to generate a usable Readme; with all the sections that you need to include. After filling out the inquirer prompt in the terminal  a  READM.md  will be generated with everything that you filled out in the terminal. This is to make writing a working Readme very easy and painless. 
+For this project we were to make a SQL page that allowed an employer to track the employees in a database. You should be able to add new departments, new roles and new employees. This project was heavily focused on getting the SQL to work properly in the terminal and to appear for the user. A video example has been added to the bottom of this page to help lead you through the page.  
 
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
+
 * [License](#license)
 * [Features](#features)
-* [Contributing](#contributing)
+
 * [Tests](#tests)
 * [Questions?](#questions)
 
 
 ## Installation
-Have your terminal open and node installed. navigate to the required page that is linked to the index.js and run the node index.js, and answer the following  questions. 
+First you will need to run and npm install. after npm install has been run you would use the command npm start to run the code. 
 
 
 ## Usage
-Answer the questions as best you can, and fill out each sections. However almost any section if you leave it blank will leave that section out the readme.
+Fill in the prompts and use the arrow keys to select the next section.  
 
 
-
-## Credits
-* Spencer Durfey
 
 
 ## License
 ![Static Badge](https://img.shields.io/badge/None-blue) 
 
-The License is important to communicate with the consumer what they are allowed to do with the page you have created. 
 
-
-## Features
-Creates a Readme and leaves out almost any section that is not filled in. 
-
-
-## Contributing
-Follow the Contributor
 
 
 ## Tests
-[video link here](https://app.screencastify.com/v3/watch/EIMDbDKZkzO9uO58QiBI)
+[Video example here](https://app.screencastify.com/v3/watch/Tqts4b7c7dt4xsS7gCms)
+
 
 ## Questions?
 Github: [Durfey32](https://github.com/Durfey32) 
